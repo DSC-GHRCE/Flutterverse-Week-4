@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "550345004241",
+    "project_id": "fir-trial-2ebb2",
+    "storage_bucket": "fir-trial-2ebb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550345004241:android:80d54136c05e455146a1f0",
+        "android_client_info": {
+          "package_name": "com.play.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550345004241-nhcaqsl2aq8gre3m1srliiq8je50btjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.play.playground",
+            "certificate_hash": "7ed57999a73abe1826e436c29ef7d78999880f6d"
+          }
+        },
+        {
+          "client_id": "550345004241-n3rbb4nfsdac1h34ccjiqdk1djroncio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8aCwWav1xdoKfB7F84ALro7diVcTuX44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550345004241-n3rbb4nfsdac1h34ccjiqdk1djroncio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
